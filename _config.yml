@@ -5,33 +5,33 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.2680851
-  brandStrength: 0.9462046935223043
-  lightness: 0
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
   brandColors:
-    - '#CFBF9B'
-    - '#1F1C13'
-    - '#254746'
-    - '#3B7686'
-    - '#8A816F'
-  rhythmicContrast: 0.6553192
+    - '#D0C19A'
+    - '#202014'
+    - '#274F51'
+    - '#3D7A8C'
+    - '#B48966'
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: Kaya Design
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Kaya Design
 opengraph:
   image: null
   type: null
