@@ -1,28 +1,40 @@
-name: Kaya Design
-favicon: null
-layout_spectrum: 0.049776366678997874
-typography_spectrum: 0.5265778517350554
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2680851
+  brandStrength: 0.9462046935223043
+  lightness: 0
+  brandColors:
+    - '#CFBF9B'
+    - '#1F1C13'
+    - '#254746'
+    - '#3B7686'
+    - '#8A816F'
+  rhythmicContrast: 0.6553192
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
+name: Kaya Design
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9462046935223043
-  lightness: 0.013904772233217955
-  saturation: 0.2723659004550427
-  rhythmicContrast: 0.7308251864742488
-purpose: []
+typography_spectrum: 0.5234042
+layout_spectrum: 0.04977636667899787
